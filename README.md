@@ -61,7 +61,7 @@ gotp.NewDefaultHOTP("4S62BZNFXXSZLCRO").ProvisioningUri("demoAccountName", "issu
 
 使用手机的OTP应用扫描以下条形码（例如Google身份验证器）:
 
-![Demo](https://user-images.githubusercontent.com/5506906/39129827-0f12b582-473e-11e8-9c19-5e4f071eed26.png)
+![Demo](https://raw.githubusercontent.com/secoba/gogotp/master/example/otp.png)
 
 运行以下命令并比较输出：
 
