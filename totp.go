@@ -2,7 +2,7 @@ package gogotp
 
 import (
 	"time"
-	"gogotp/util"
+	"github.com/secoba/gogotp/util"
 )
 
 // 基于时间的OTP计数器
