@@ -1,6 +1,6 @@
 package gogotp
 
-import "gogotp/util"
+import "github.com/secoba/gogotp/util"
 
 // 基于HMAC的OTP计数器
 type HOTP struct {
