@@ -7,7 +7,7 @@ import (
 	"math"
 	"fmt"
 	"strings"
-	"gogotp/util"
+	"github.com/secoba/gogotp/util"
 	"encoding/base32"
 )
 
